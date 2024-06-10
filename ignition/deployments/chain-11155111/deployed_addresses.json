@@ -9,5 +9,6 @@
   "KingModule#KingV1": "0xb2FBE4E133F7f38Ca757A398bB531837BBcE322D",
   "ReentrancyModule#TokenCrackV4": "0x5DEFCf390Fb9722fA2e6e8DF8264094A0F9708e3",
   "ReentrancyModule#ReentrancyV1": "0x4faa58960aB18FCf8247b4941F47fFFB1993f62B",
-  "ReentrancyModule#ReentrancyV2": "0x87e554DCe42FC49305583E27F29eE1e1A5f4C11a"
+  "ReentrancyModule#ReentrancyV2": "0x87e554DCe42FC49305583E27F29eE1e1A5f4C11a",
+  "ElevatorModule#Elevator": "0x136D9a7d4BC10F7daE6c244D1f846817eEc9c6a6"
 }
